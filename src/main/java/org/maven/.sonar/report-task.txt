@@ -1,0 +1,5 @@
+projectKey=samplemavenrepo
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/samplemavenrepo
+ceTaskId=AVs90Ki5OSl9U6FWIwr9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVs90Ki5OSl9U6FWIwr9
